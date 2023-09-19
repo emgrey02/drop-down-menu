@@ -1,0 +1,28 @@
+{
+    "name": "drop-down-menu",
+    "version": "1.0.0",
+    "description": "simple drop-down menu",
+    "module": "src/index.js",
+    "scripts": {
+        "start": "webpack serve --open --mode=development",
+        "build": "webpack --mode=production"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emgrey02/drop-down-menu.git"
+    },
+    "keywords": [
+        "dropdown",
+        "menu",
+        "navigation",
+        "drop",
+        "down"
+    ],
+    "author": "Emma Grey <emgrey02@gmail.com> (https://emmagrey.netlify.app)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/emgrey02/drop-down-menu/issues"
+    },
+    "homepage": "https://github.com/emgrey02/drop-down-menu#readme",
+    "devDependencies": {}
+}
