@@ -2,13 +2,13 @@
 
 ## how to install
 
-    npm i drop-down-menu --save
+    npm i @greypse/drop-down-menu --save
 
 ## how to use
 
 1.  import ESmodule like this
 
-        import { DropDown }  from 'drop-down-menu';
+        import { DropDown }  from '@greypse/drop-down-menu';
 
 2.  create an options object to customize values and links using this format
 

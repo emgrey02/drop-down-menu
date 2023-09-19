@@ -1,5 +1,5 @@
 {
-    "name": "drop-down-menu",
+    "name": "@greypse/drop-down-menu",
     "version": "1.0.0",
     "description": "simple drop-down menu",
     "module": "src/index.js",
